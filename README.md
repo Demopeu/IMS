@@ -1,4 +1,4 @@
-# 🎵 프로젝트 이름: IMS (I’m Solo)
+# 🎵 AI 기반 코드 리뷰 서비스 IMS (I’m Solo)
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/aa786d89-1540-470d-a330-51112eeb7578" width="300"/>

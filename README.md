@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/aa786d89-1540-470d-a330-51112eeb7578" width="300"/>
 
+<br>
 
 > 이 프로젝트는 혼자서 PR을 리뷰해주는 AI 리뷰 파트너를 만들고자 시작되었습니다.
 > 

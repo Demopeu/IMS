@@ -3,8 +3,11 @@
 <img src="https://github.com/user-attachments/assets/aa786d89-1540-470d-a330-51112eeb7578" width="300"/>
 
 > 이 프로젝트는 혼자서 PR을 리뷰해주는 AI 리뷰 파트너를 만들고자 시작되었습니다.
+> 
 > "IMS"는 "I’m Solo"의 약자로, **혼자서도 전문가처럼 코드 리뷰를 받아 보자!**는 의미를 담고 있습니다.
+> 
 > GitHub Pull Request에 대해 자동으로 시맨틱 품질 리뷰를 수행하고, 리뷰 내용을 댓글로 남기는 AI 기반 코드 리뷰 서비스입니다.
+> 
 > Next.js + TypeScript + Tailwind로 작성된 프론트엔드 프로젝트에서 코드 의미, SSR 구조, 시맨틱 HTML, 접근성 등을 분석합니다.
 
 ---

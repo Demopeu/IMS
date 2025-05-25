@@ -1,6 +1,6 @@
 # 🎵 프로젝트 이름: IMS (I’m Solo)
 
-![IMS 로고](https://github.com/user-attachments/assets/7ddc5c50-3106-4ab0-9982-ea1eef3d0914)
+<img src="https://github.com/user-attachments/assets/7ddc5c50-3106-4ab0-9982-ea1eef3d0914" style="width:50%;"/>
 
 이 프로젝트는 혼자서 PR을 리뷰해주는 AI 리뷰 파트너를 만들고자 시작되었습니다.
 

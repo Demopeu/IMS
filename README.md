@@ -2,6 +2,8 @@
 
 <img src="https://github.com/user-attachments/assets/aa786d89-1540-470d-a330-51112eeb7578" width="300"/>
 
+<br/>
+
 이 프로젝트는 혼자서 PR을 리뷰해주는 AI 리뷰 파트너를 만들고자 시작되었습니다.
 
 "IMS"는 "I’m Solo"의 약자로, **혼자서도 전문가처럼 코드 리뷰를 받아 보자!**는 의미를 담고 있습니다.
